@@ -1,0 +1,28 @@
+﻿  ppclient.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(61): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 'sprintf' 선언을 참조하십시오.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(104): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(125): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(160): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(161): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(158): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(258): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(259): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(266): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(295): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(302): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(307): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(324): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(171): warning C4715: 'RecvMsg': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\full1\desktop\거의완성ver.1\pinpong_client\pinpong_client\ppclient.cpp(116): warning C4715: 'SendMsg': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  PinPong_Client.vcxproj -> C:\Users\Full1\Desktop\거의완성ver.1\PinPong_Client\Debug\PinPong_Client.exe
+  PinPong_Client.vcxproj -> C:\Users\Full1\Desktop\거의완성ver.1\PinPong_Client\Debug\PinPong_Client.pdb (Partial PDB)

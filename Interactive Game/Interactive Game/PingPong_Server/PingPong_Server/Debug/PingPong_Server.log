@@ -1,0 +1,25 @@
+﻿  ppserver.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(34): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(113): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(114): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(111): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(152): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 'strcpy' 선언을 참조하십시오.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(204): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(205): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(207): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(212): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(213): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(217): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(218): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(222): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\full1\desktop\거의완성ver.1\pingpong_server\pingpong_server\ppserver.cpp(227): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  PingPong_Server.vcxproj -> C:\Users\Full1\Desktop\거의완성ver.1\PingPong_Server\Debug\PingPong_Server.exe
+  PingPong_Server.vcxproj -> C:\Users\Full1\Desktop\거의완성ver.1\PingPong_Server\Debug\PingPong_Server.pdb (Partial PDB)
