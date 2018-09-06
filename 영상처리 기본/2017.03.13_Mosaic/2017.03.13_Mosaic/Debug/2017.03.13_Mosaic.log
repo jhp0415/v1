@@ -1,0 +1,14 @@
+﻿  소스.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\park jh\desktop\fullstack\영상처리\2017.03.13_mosaic\2017.03.13_mosaic\소스.cpp(15): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\park jh\desktop\fullstack\영상처리\2017.03.13_mosaic\2017.03.13_mosaic\소스.cpp(109): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\direct.h(93): note: 'getcwd' 선언을 참조하십시오.
+c:\users\park jh\desktop\fullstack\영상처리\2017.03.13_mosaic\2017.03.13_mosaic\소스.cpp(110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\park jh\desktop\fullstack\영상처리\2017.03.13_mosaic\2017.03.13_mosaic\소스.cpp(111): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\direct.h(110): note: 'mkdir' 선언을 참조하십시오.
+  2017.03.13_Mosaic.vcxproj -> C:\Users\Park JH\Desktop\FullStack\영상처리\2017.03.13_Mosaic\Debug\2017.03.13_Mosaic.exe
+  2017.03.13_Mosaic.vcxproj -> C:\Users\Park JH\Desktop\FullStack\영상처리\2017.03.13_Mosaic\Debug\2017.03.13_Mosaic.pdb (Partial PDB)

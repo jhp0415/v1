@@ -1,0 +1,25 @@
+﻿  소스.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+c:\users\park jh\desktop\fullstack\영상처리\2017.03.23_mosaic_color\2017.03.23_mosaic_color\소스.cpp(15): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+c:\users\park jh\desktop\fullstack\영상처리\2017.03.23_mosaic_color\2017.03.23_mosaic_color\소스.cpp(109): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\direct.h(93): note: 'getcwd' 선언을 참조하십시오.
+c:\users\park jh\desktop\fullstack\영상처리\2017.03.23_mosaic_color\2017.03.23_mosaic_color\소스.cpp(110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(90): note: 'strcat' 선언을 참조하십시오.
+c:\users\park jh\desktop\fullstack\영상처리\2017.03.23_mosaic_color\2017.03.23_mosaic_color\소스.cpp(111): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\direct.h(110): note: 'mkdir' 선언을 참조하십시오.
+소스.obj : error LNK2019: "void __cdecl cv::fastFree(void *)" (?fastFree@cv@@YAXPAX@Z) 외부 기호(참조 위치: "public: __thiscall cv::Mat::~Mat(void)" (??1Mat@cv@@QAE@XZ) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "private: char * __thiscall cv::String::allocate(unsigned int)" (?allocate@String@cv@@AAEPADI@Z) 외부 기호(참조 위치: "public: __thiscall cv::String::String(char const *)" (??0String@cv@@QAE@PBD@Z) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ) 외부 기호(참조 위치: "public: __thiscall cv::String::~String(void)" (??1String@cv@@QAE@XZ) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "void __cdecl cv::error(int,class cv::String const &,char const *,char const *,int)" (?error@cv@@YAXHABVString@1@PBD1H@Z) 외부 기호(참조 위치: "public: unsigned char & __thiscall cv::Mat::at<unsigned char>(int,int)" (??$at@E@Mat@cv@@QAEAAEHH@Z) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "public: void __thiscall cv::Mat::create(int,int const *,int)" (?create@Mat@cv@@QAEXHPBHH@Z) 외부 기호(참조 위치: "public: void __thiscall cv::Mat::create(int,int,int)" (?create@Mat@cv@@QAEXHHH@Z) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "public: void __thiscall cv::Mat::deallocate(void)" (?deallocate@Mat@cv@@QAEXXZ) 외부 기호(참조 위치: "public: void __thiscall cv::Mat::release(void)" (?release@Mat@cv@@QAEXXZ) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "class cv::Mat __cdecl cv::imread(class cv::String const &,int)" (?imread@cv@@YA?AVMat@1@ABVString@1@H@Z) 외부 기호(참조 위치: "void __cdecl Compare_Color(int)" (?Compare_Color@@YAXH@Z) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "bool __cdecl cv::imwrite(class cv::String const &,class cv::_InputArray const &,class std::vector<int,class std::allocator<int> > const &)" (?imwrite@cv@@YA_NABVString@1@ABV_InputArray@1@ABV?$vector@HV?$allocator@H@std@@@std@@@Z) 외부 기호(참조 위치: "void __cdecl WriteImage(int,struct Temp *,int,int)" (?WriteImage@@YAXHPAUTemp@@HH@Z) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "int __cdecl cv::waitKey(int)" (?waitKey@cv@@YAHH@Z) 외부 기호(참조 위치: "void __cdecl ImageShow(int,struct Temp *,int,int)" (?ImageShow@@YAXHPAUTemp@@HH@Z) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "void __cdecl cv::imshow(class cv::String const &,class cv::_InputArray const &)" (?imshow@cv@@YAXABVString@1@ABV_InputArray@1@@Z) 외부 기호(참조 위치: "void __cdecl ImageShow(int,struct Temp *,int,int)" (?ImageShow@@YAXHPAUTemp@@HH@Z) 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "int __cdecl Extract(void)" (?Extract@@YAHXZ) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: "void __cdecl Compare(int)" (?Compare@@YAXH@Z) 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\Park JH\Desktop\FullStack\영상처리\2017.03.23_Mosaic_Color\Debug\2017.03.23_Mosaic_Color.exe : fatal error LNK1120: 12개의 확인할 수 없는 외부 참조입니다.
