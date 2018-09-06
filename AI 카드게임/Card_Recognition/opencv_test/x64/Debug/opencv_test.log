@@ -1,0 +1,32 @@
+﻿  main.cpp
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(50): warning C4091: 'typedef ': 변수를 선언하지 않으면 'CARD' 왼쪽은 무시됩니다.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(76): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: 'inet_addr' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(102): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1334): note: 'itoa' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(103): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1334): note: 'itoa' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(104): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdlib.h(1334): note: 'itoa' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(181): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(182): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(269): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(270): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(279): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(281): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(286): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(288): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(413): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(415): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(417): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\fullstack1\documents\visual studio 2017\projects\opencv_test\opencv_test\main.cpp(419): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+  opencv_test.vcxproj -> C:\Users\Fullstack1\Documents\Visual Studio 2017\Projects\opencv_test\x64\Debug\opencv_test.exe
+  opencv_test.vcxproj -> C:\Users\Fullstack1\Documents\Visual Studio 2017\Projects\opencv_test\x64\Debug\opencv_test.pdb (Partial PDB)
